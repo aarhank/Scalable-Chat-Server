@@ -13,7 +13,7 @@ A load balancer will then be required to distribute the traffic among the multip
 
 ### Issue : Message loss due to the load balancer / No Sync between instances
 
-![problem.png](problem.png)
+![issue.png](issue.png)
 
 ### Solution : Broadcast messages using Pub/Sub
 
